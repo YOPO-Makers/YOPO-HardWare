@@ -62,9 +62,7 @@ Nvidia Orin NX 是无人机上的机载边缘计算平台。
 
 **参考图片：**
 
-![Nvidia Orin NX 及附赠品](./清单images/nx和附赠品.jpg)
-
-
+<img src="./清单images/nx和附赠品.jpg" alt="Nvidia Orin NX 及附赠品" width="420">
 **淘宝购买链接：**
 
 [点击查看机载电脑商品（SKU：5396774401953）](https://item.taobao.com/item.htm?id=705748339987&skuId=5396774401953)
@@ -79,8 +77,7 @@ Nvidia Orin NX 是无人机上的机载边缘计算平台。
 
 **参考图片：**
 
-![深度相机 示例图片](./清单images/depth-camera.jpg)
-
+<img src="./清单images/depth-camera.jpg" alt="深度相机 示例图片" width="420">
 **淘宝购买链接：**
 
 [点击查看深度相机商品（SKU：4457168412136）](https://item.taobao.com/item.htm?id=559722720199&skuId=4457168412136)
@@ -98,8 +95,7 @@ Nvidia Orin NX 是无人机上的机载边缘计算平台。
 
 **参考图片：**
 
-![飞控 NxtPX4](./清单images/飞控.jpg)
-
+<img src="./清单images/飞控.jpg" alt="飞控 NxtPX4" width="420">
 [返回硬件清单](#hardware-list)
 
 ### 电调：45A（当前使用，型号待补充）
@@ -111,8 +107,7 @@ Nvidia Orin NX 是无人机上的机载边缘计算平台。
 
 **参考图片：**
 
-![45A 电调](./清单images/电调.jpg)
-
+<img src="./清单images/电调.jpg" alt="45A 电调" width="420">
 [返回硬件清单](#hardware-list)
 
 ### 电机：OddityRC 2006 2150KV 四个装
@@ -123,8 +118,7 @@ Nvidia Orin NX 是无人机上的机载边缘计算平台。
 
 **参考图片：**
 
-![无刷电机](./清单images/电机.jpg)
-
+<img src="./清单images/电机.jpg" alt="无刷电机" width="420">
 **历史购买链接：**
 
 [查看原 OddityRC 2006 电机商品（已售罄）](https://item.taobao.com/item.htm?id=793989229752&sku_properties=1627207%3A32402027293)
@@ -140,8 +134,7 @@ Nvidia Orin NX 是无人机上的机载边缘计算平台。
 
 **参考图片：**
 
-![三孔螺旋桨示意图](./清单images/props-figure.jpg)
-
+<img src="./清单images/props-figure.jpg" alt="三孔螺旋桨示意图" width="420">
 **购买链接：**
 
 [点击查看三孔螺旋桨商品（SKU：5675481147990）](https://item.taobao.com/item.htm?id=811737228893&skuId=5675481147990)
@@ -157,8 +150,7 @@ Nvidia Orin NX 是无人机上的机载边缘计算平台。
 
 **参考图片：**
 
-![1400mAh 6S 电池](./清单images/battery.jpg)
-
+<img src="./清单images/battery.jpg" alt="1400mAh 6S 电池" width="420">
 **淘宝购买链接：**
 
 [点击查看淘宝商品（SKU：5449796720472）](https://item.taobao.com/item.htm?id=677691756050&skuId=5449796720472)
@@ -174,8 +166,7 @@ Nvidia Orin NX 是无人机上的机载边缘计算平台。
 
 **参考图片：**
 
-![电池防撞护垫](./清单images/battery-protect-foam.jpg)
-
+<img src="./清单images/battery-protect-foam.jpg" alt="电池防撞护垫" width="420">
 **淘宝购买链接：**
 
 [点击查看电池防撞商品（SKU：6010611489926）](https://item.taobao.com/item.htm?id=1008514063717&skuId=6010611489926)
@@ -195,8 +186,7 @@ Nvidia Orin NX 是无人机上的机载边缘计算平台。
 
 **参考图片：**
 
-![电池绑带](./清单images/电池绑带.jpg)
-
+<img src="./清单images/电池绑带.jpg" alt="电池绑带" width="420">
 [返回硬件清单](#hardware-list)
 
 ### 桨叶保护罩：OddityRC XI35 Pro
@@ -206,8 +196,7 @@ Nvidia Orin NX 是无人机上的机载边缘计算平台。
 
 **参考图片：**
 
-![桨叶保护罩](./清单images/桨叶保护罩.jpg)
-
+<img src="./清单images/桨叶保护罩.jpg" alt="桨叶保护罩" width="420">
 **淘宝购买链接：**
 
 [点击查看涵道保护圈商品（SKU：5815214173777）](https://item.taobao.com/item.htm?id=930567172186&skuId=5815214173777)
@@ -221,8 +210,7 @@ Nvidia Orin NX 是无人机上的机载边缘计算平台。
 
 **参考图片：**
 
-![接收机](./清单images/接收机.jpg)
-
+<img src="./清单images/接收机.jpg" alt="接收机" width="420">
 **淘宝购买链接：**
 
 [点击查看接收机商品（SKU：6059615692701）](https://item.taobao.com/item.htm?id=1039148819082&skuId=6059615692701)
@@ -236,8 +224,7 @@ Nvidia Orin NX 是无人机上的机载边缘计算平台。
 
 **参考图片：**
 
-![遥控器](./清单images/遥控器.jpg)
-
+<img src="./清单images/遥控器.jpg" alt="遥控器" width="420">
 **淘宝购买链接：**
 
 [点击查看遥控器商品（SKU：5690791865430）](https://item.taobao.com/item.htm?id=789612406107&skuId=5690791865430)
@@ -251,10 +238,8 @@ Nvidia Orin NX 是无人机上的机载边缘计算平台。
 
 **参考图片：**
 
-![XT60 E1-M 在机架下板上的安装位置](./清单images/XT60-E1M下板上表面图.jpg)
-
-![XT60 E1-M 机架下板背面](./清单images/XT60-E1M下板下表面.jpg)
-
+<img src="./清单images/XT60-E1M下板上表面图.jpg" alt="XT60 E1-M 在机架下板上的安装位置" width="420">
+<img src="./清单images/XT60-E1M下板下表面.jpg" alt="XT60 E1-M 机架下板背面" width="420">
 **淘宝购买链接：**
 
 [点击查看 XT60 E1-M 公头商品（SKU：4662287222244）](https://detail.tmall.com/item.htm?id=631049982867&skuId=4662287222244)
@@ -276,8 +261,7 @@ Nvidia Orin NX 是无人机上的机载边缘计算平台。
 
 **参考图片：**
 
-![XT30 母头](./清单images/XT30母头.jpg)
-
+<img src="./清单images/XT30母头.jpg" alt="XT30 母头" width="420">
 [返回硬件清单](#hardware-list)
 
 ### 计算机电源线：18 AWG 红色，1m 长
@@ -291,8 +275,7 @@ Nvidia Orin NX 是无人机上的机载边缘计算平台。
 
 **参考图片：**
 
-![18 AWG 电线](./清单images/18awg电线.jpg)
-
+<img src="./清单images/18awg电线.jpg" alt="18 AWG 电线" width="420">
 [返回硬件清单](#hardware-list)
 
 ### 计算机电源线：18 AWG 黑色，1m 长
@@ -308,8 +291,7 @@ Nvidia Orin NX 是无人机上的机载边缘计算平台。
 
 **参考图片：**
 
-![18 AWG 电线](./清单images/18awg电线.jpg)
-
+<img src="./清单images/18awg电线.jpg" alt="18 AWG 电线" width="420">
 [返回硬件清单](#hardware-list)
 
 ### 硅胶线：28 AWG 绿色，0.08平方，5m 长
@@ -375,8 +357,7 @@ Nvidia Orin NX 是无人机上的机载边缘计算平台。
 
 **参考图片：**
 
-![相机 Type-C 线](./清单images/相机type-c线.jpg)
-
+<img src="./清单images/相机type-c线.jpg" alt="相机 Type-C 线" width="420">
 [返回硬件清单](#hardware-list)
 
 ### Type-C 调试母座（机架下板安装位）
@@ -386,8 +367,7 @@ Nvidia Orin NX 是无人机上的机载边缘计算平台。
 
 **参考图片：**
 
-![Type-C 调试母座](./清单images/type-c母座.jpg)
-
+<img src="./清单images/type-c母座.jpg" alt="Type-C 调试母座" width="420">
 **淘宝购买链接：**
 
 [点击查看 Type-C 调试母座商品（SKU：5102665524058）](https://item.taobao.com/item.htm?id=739748700093&skuId=5102665524058)
@@ -403,8 +383,7 @@ Nvidia Orin NX 是无人机上的机载边缘计算平台。
 
 **参考图片：**
 
-![Type-C 调试公头](./清单images/type-c公头.jpg)
-
+<img src="./清单images/type-c公头.jpg" alt="Type-C 调试公头" width="420">
 **淘宝购买链接：**
 
 [点击查看 Type-C 调试公头商品（SKU：5077068792858）](https://item.taobao.com/item.htm?id=734551790057&skuId=5077068792858)
@@ -418,8 +397,7 @@ Nvidia Orin NX 是无人机上的机载边缘计算平台。
 
 **参考图片：**
 
-![DC-DC 12V 降压模块](./清单images/DC-DC变换器.jpg)
-
+<img src="./清单images/DC-DC变换器.jpg" alt="DC-DC 12V 降压模块" width="420">
 **淘宝购买链接：**
 
 [点击查看 DC-DC 降压模块商品（SKU：6264144190644）](https://item.taobao.com/item.htm?id=677122068881&skuId=6264144190644)
@@ -440,8 +418,7 @@ Nvidia Orin NX 是无人机上的机载边缘计算平台。
 
 **参考图片：**
 
-![M3×12 螺柱](./清单images/M3×12螺柱.jpg)
-
+<img src="./清单images/M3×12螺柱.jpg" alt="M3×12 螺柱" width="420">
 [返回硬件清单](#hardware-list)
 
 ### 内六角沉头螺丝M3×10mm
@@ -451,8 +428,7 @@ Nvidia Orin NX 是无人机上的机载边缘计算平台。
 
 **参考图片：**
 
-![M3×10 沉头螺丝](./清单images/M3×10沉头螺丝.jpg)
-
+<img src="./清单images/M3×10沉头螺丝.jpg" alt="M3×10 沉头螺丝" width="420">
 [返回硬件清单](#hardware-list)
 
 ### 尼龙螺丝：M2×20mm，白色
@@ -468,8 +444,7 @@ Nvidia Orin NX 是无人机上的机载边缘计算平台。
 
 **参考图片：**
 
-![M2×20 尼龙螺丝](./清单images/M2×20尼龙螺丝.jpg)
-
+<img src="./清单images/M2×20尼龙螺丝.jpg" alt="M2×20 尼龙螺丝" width="420">
 [返回硬件清单](#hardware-list)
 
 ### 尼龙螺母：M2，白色
@@ -485,8 +460,7 @@ Nvidia Orin NX 是无人机上的机载边缘计算平台。
 
 **参考图片：**
 
-![M2 尼龙螺母](./清单images/M2尼龙螺母.jpg)
-
+<img src="./清单images/M2尼龙螺母.jpg" alt="M2 尼龙螺母" width="420">
 [返回硬件清单](#hardware-list)
 
 ### 内六角沉头螺丝：M3×20mm
@@ -502,8 +476,7 @@ Nvidia Orin NX 是无人机上的机载边缘计算平台。
 
 **参考图片：**
 
-![M3×20 沉头螺丝](./清单images/M3×20沉头螺丝.jpg)
-
+<img src="./清单images/M3×20沉头螺丝.jpg" alt="M3×20 沉头螺丝" width="420">
 [返回硬件清单](#hardware-list)
 
 ### 内六角沉头螺丝：M2.5×10mm
@@ -519,8 +492,7 @@ Nvidia Orin NX 是无人机上的机载边缘计算平台。
 
 **参考图片：**
 
-![M2.5×10 沉头螺丝](./清单images/M2.5城10沉头螺丝.jpg)
-
+<img src="./清单images/M2.5城10沉头螺丝.jpg" alt="M2.5×10 沉头螺丝" width="420">
 [返回硬件清单](#hardware-list)
 
 ### 内六角平头螺丝：M4×8mm
@@ -530,8 +502,7 @@ Nvidia Orin NX 是无人机上的机载边缘计算平台。
 
 **参考图片：**
 
-![M4×8 平头螺丝](./清单images/M4×8平头螺丝.jpg)
-
+<img src="./清单images/M4×8平头螺丝.jpg" alt="M4×8 平头螺丝" width="420">
 [返回硬件清单](#hardware-list)
 
 ### 平头螺丝：M3×12mm
@@ -541,8 +512,7 @@ Nvidia Orin NX 是无人机上的机载边缘计算平台。
 
 **参考图片：**
 
-![M3×12 平头螺丝](./清单images/M3×12平头螺丝.jpg)
-
+<img src="./清单images/M3×12平头螺丝.jpg" alt="M3×12 平头螺丝" width="420">
 [返回硬件清单](#hardware-list)
 
 ### 防松螺母：M3
@@ -552,8 +522,7 @@ Nvidia Orin NX 是无人机上的机载边缘计算平台。
 
 **参考图片：**
 
-![M3 防松螺母](./清单images/M3防松螺母.jpg)
-
+<img src="./清单images/M3防松螺母.jpg" alt="M3 防松螺母" width="420">
 [返回硬件清单](#hardware-list)
 
 ### 缓冲泡棉（用于电池，2m）
@@ -576,8 +545,7 @@ Nvidia Orin NX 是无人机上的机载边缘计算平台。
 
 **参考图片：**
 
-![魔术贴胶带](./清单images/魔术贴胶带.jpg)
-
+<img src="./清单images/魔术贴胶带.jpg" alt="魔术贴胶带" width="420">
 [返回硬件清单](#hardware-list)
 
 ### 尼龙扎带：白色，25cm，中粗，100条装
@@ -593,8 +561,7 @@ Nvidia Orin NX 是无人机上的机载边缘计算平台。
 
 **参考图片：**
 
-![尼龙扎带](./清单images/匝带.jpg)
-
+<img src="./清单images/匝带.jpg" alt="尼龙扎带" width="420">
 [返回硬件清单](#hardware-list)
 
 ### 固态电容：680µF（更紧凑）
@@ -610,8 +577,7 @@ Nvidia Orin NX 是无人机上的机载边缘计算平台。
 
 **参考图片：**
 
-![固态电容](./清单images/电容.jpg)
-
+<img src="./清单images/电容.jpg" alt="固态电容" width="420">
 [返回硬件清单](#hardware-list)
 
 ### 热缩管：黑色，圆直径 4mm，按 2m 散卖
@@ -627,8 +593,7 @@ Nvidia Orin NX 是无人机上的机载边缘计算平台。
 
 **参考图片：**
 
-![4mm 热缩管](./清单images/4mm热缩管.jpg)
-
+<img src="./清单images/4mm热缩管.jpg" alt="4mm 热缩管" width="420">
 [返回硬件清单](#hardware-list)
 
 ### 热缩管：黑色，圆直径 2mm，按 2m 散卖
@@ -644,8 +609,7 @@ Nvidia Orin NX 是无人机上的机载边缘计算平台。
 
 **参考图片：**
 
-![2mm 热缩管](./清单images/2mm热缩管.jpg)
-
+<img src="./清单images/2mm热缩管.jpg" alt="2mm 热缩管" width="420">
 [返回硬件清单](#hardware-list)
 
 ### 3K 东丽碳纤维板定制加工
@@ -661,8 +625,7 @@ Nvidia Orin NX 是无人机上的机载边缘计算平台。
 
 **参考图片：**
 
-![碳纤维上板](./清单images/碳纤维上板.jpg)
-
+<img src="./清单images/碳纤维上板.jpg" alt="碳纤维上板" width="420">
 [返回硬件清单](#hardware-list)
 
 ### PETG 3D 打印定制件
@@ -678,8 +641,7 @@ Nvidia Orin NX 是无人机上的机载边缘计算平台。
 
 **参考图片：**
 
-![PETG 3D 打印件](./清单images/三种打印件.jpg)
-
+<img src="./清单images/三种打印件.jpg" alt="PETG 3D 打印件" width="420">
 [返回硬件清单](#hardware-list)
 
 ### BB 响
@@ -689,8 +651,7 @@ Nvidia Orin NX 是无人机上的机载边缘计算平台。
 
 **参考图片：**
 
-![BB 响](./清单images/BB响.jpg)
-
+<img src="./清单images/BB响.jpg" alt="BB 响" width="420">
 **淘宝购买链接：**
 
 [点击查看 BB 响商品（SKU：5619084980840）](https://item.taobao.com/item.htm?id=843832893059&skuId=5619084980840)
