@@ -36,6 +36,7 @@
 | 内六角沉头螺丝：M2.5×10mm | 2颗 | [查看详细介绍](#detail-countersunk-m2-5-10) |
 | 内六角平头螺丝：M4×8mm | 2颗 | [查看详细介绍](#detail-screw-m4-8) |
 | 平头螺丝：M3×12mm | 2颗 | [查看详细介绍](#detail-flat-screw-m3-12) |
+| 平头螺丝：M3×14mm | 1颗 | [查看详细介绍](#detail-flat-screw-m3-14) |
 | 防松螺母：M3 | 2颗 | [查看详细介绍](#detail-locknut-m3) |
 | 缓冲泡棉（用于电池，2m） | 1 | [查看详细介绍](#detail-foam) |
 | 3M 背胶魔术贴：黑色，2cm 宽，3m 勾面 + 3m 毛面 | 1 | [查看详细介绍](#detail-velcro) |
@@ -542,6 +543,17 @@ Nvidia Orin NX 是无人机上的机载边缘计算平台。
 **参考图片：**
 
 <img src="./清单images/M3×12平头螺丝.jpg" alt="M3×12 平头螺丝" width="420">
+
+[返回硬件清单](#hardware-list)
+
+### 平头螺丝：M3×14mm
+<a id="detail-flat-screw-m3-14"></a>
+
+**功能简介：** 用于唯一的一个仅链接上板和桨叶保护圈的螺丝。
+
+**参考图片：**
+
+<img src="./清单images/M3×14平头螺丝.jpg" alt="M3×14 平头螺丝" width="420">
 
 [返回硬件清单](#hardware-list)
 
