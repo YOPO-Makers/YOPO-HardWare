@@ -34,6 +34,7 @@
 | 尼龙螺母：M2，白色 | 8颗 | [查看详细介绍](#detail-nylon-nut-m2) |
 | 内六角沉头螺丝：M3×20mm | 6颗 | [查看详细介绍](#detail-countersunk-m3-20) |
 | 内六角沉头螺丝：M2.5×10mm | 2颗 | [查看详细介绍](#detail-countersunk-m2-5-10) |
+| 内六角沉头螺丝：M2.5×7mm | 4颗 | [查看详细介绍](#detail-countersunk-m2-5-7) |
 | 内六角平头螺丝：M4×8mm | 2颗 | [查看详细介绍](#detail-screw-m4-8) |
 | 平头螺丝：M3×12mm | 2颗 | [查看详细介绍](#detail-flat-screw-m3-12) |
 | 平头螺丝：M3×14mm | 1颗 | [查看详细介绍](#detail-flat-screw-m3-14) |
@@ -521,6 +522,15 @@ Nvidia Orin NX 是无人机上的机载边缘计算平台。
 **参考图片：**
 
 <img src="./清单images/M2.5城10沉头螺丝.jpg" alt="M2.5×10 沉头螺丝" width="420">
+
+[返回硬件清单](#hardware-list)
+
+### 内六角沉头螺丝：M2.5×7mm
+<a id="detail-countersunk-m2-5-7"></a>
+
+**功能简介：** 用于较薄结构件或小型安装位的沉头固定，长度比 M2.5×10mm 更短，可减少穿透或顶到内部结构的风险。
+
+**规格：** M2.5×7mm，数量 4 颗。
 
 [返回硬件清单](#hardware-list)
 
